@@ -1,0 +1,319 @@
+# depslib dependency file v1.0
+1471770737 source:c:\users\salman\documents\cg\cg_project\cross_the_road.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	"component.h"
+	"car.h"
+	"train.h"
+	"control.h"
+	"bezier.h"
+
+1472831414 c:\users\salman\documents\cg\cg_project\component.h
+
+1471642074 c:\users\salman\documents\cg\cg_project\car.h
+
+1471776056 c:\users\salman\documents\cg\cg_project\train.h
+	"bezier.h"
+
+1471689138 c:\users\salman\documents\cg\cg_project\bezier.h
+
+1472847604 c:\users\salman\documents\cg\cg_project\control.h
+	"score.h"
+
+1471772274 source:c:\users\salman\documents\cg\cg_project\test_collision.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	"car.h"
+	"component.h"
+
+1471767126 source:c:\users\salman\documents\cg\cg_project\test_curve.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	"bezier.h"
+
+1472846660 source:c:\users\salman\documents\cg\cg_project\main.cpp
+	<iostream>
+	<math.h>
+	<sstream>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	"component.h"
+	"car.h"
+	"train.h"
+	"control.h"
+	"scenery.h"
+	"score.h"
+	"character.h"
+	"collision.h"
+
+1471809536 c:\users\salman\documents\cg\cg_project\texture.h
+	"imageloader.h"
+
+1471803780 c:\users\salman\documents\cg\cg_project\imageloader.h
+	<assert.h>
+	<fstream>
+
+1471824112 c:\users\salman\documents\cg\cg_project\mountain.h
+
+1472844072 c:\users\salman\documents\cg\cg_project\score.h
+
+1472841235 c:\users\salman\documents\cg\cg_project\scenery.h
+	"house.h"
+
+1471941938 c:\users\salman\documents\cg\cg_project\house.h
+
+1472833356 c:\users\salman\documents\cg\cg_project\character.h
+
+1471968183 source:c:\users\ahrla\desktop\cg_project\cg_project\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<string.h>
+	<sstream>
+	<GL/glut.h>
+	"component.h"
+	"car.h"
+	"train.h"
+	"control.h"
+	"scenery.h"
+	"score.h"
+	"character.h"
+	"collision.h"
+
+1471944898 c:\users\ahrla\desktop\cg_project\cg_project\component.h
+
+1471642074 c:\users\ahrla\desktop\cg_project\cg_project\car.h
+
+1471776056 c:\users\ahrla\desktop\cg_project\cg_project\train.h
+	"bezier.h"
+
+1471689138 c:\users\ahrla\desktop\cg_project\cg_project\bezier.h
+
+1471949556 c:\users\ahrla\desktop\cg_project\cg_project\control.h
+	"score.h"
+
+1471948788 c:\users\ahrla\desktop\cg_project\cg_project\scenery.h
+	"house.h"
+
+1471941938 c:\users\ahrla\desktop\cg_project\cg_project\house.h
+
+1471905714 c:\users\ahrla\desktop\cg_project\cg_project\score.h
+
+1471926384 c:\users\ahrla\desktop\cg_project\cg_project\character.h
+
+1471948590 c:\users\ahrla\desktop\cg_project\cg_project\lighting.h
+
+1471950175 c:\users\ahrla\desktop\cg_project\cg_project\collision.h
+
+1472818162 source:c:\users\ahrla\desktop\cg_project_collision_gameover screen\cg_project\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<string.h>
+	<sstream>
+	<GL/glut.h>
+	"component.h"
+	"car.h"
+	"train.h"
+	"control.h"
+	"scenery.h"
+	"score.h"
+	"character.h"
+
+1471944898 c:\users\ahrla\desktop\cg_project_collision_gameover screen\cg_project\component.h
+
+1471642074 c:\users\ahrla\desktop\cg_project_collision_gameover screen\cg_project\car.h
+
+1471776056 c:\users\ahrla\desktop\cg_project_collision_gameover screen\cg_project\train.h
+	"bezier.h"
+
+1471689138 c:\users\ahrla\desktop\cg_project_collision_gameover screen\cg_project\bezier.h
+
+1472817619 c:\users\ahrla\desktop\cg_project_collision_gameover screen\cg_project\control.h
+	"score.h"
+
+1472817420 c:\users\ahrla\desktop\cg_project_collision_gameover screen\cg_project\score.h
+
+1471948788 c:\users\ahrla\desktop\cg_project_collision_gameover screen\cg_project\scenery.h
+	"house.h"
+
+1471941938 c:\users\ahrla\desktop\cg_project_collision_gameover screen\cg_project\house.h
+
+1472815183 c:\users\ahrla\desktop\cg_project_collision_gameover screen\cg_project\character.h
+
+1471950175 c:\users\ahrla\desktop\cg_project_collision_gameover screen\cg_project\collision.h
+
+1472847212 c:\users\salman\documents\cg\cg_project\collision.h
+
+1472919103 source:c:\users\ahrla\desktop\cg_project_latest\cg_project\main.cpp
+	<iostream>
+	<math.h>
+	<sstream>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	"component.h"
+	"car.h"
+	"train.h"
+	"control.h"
+	"scenery.h"
+	"score.h"
+	"character.h"
+	"collision.h"
+
+1472918660 c:\users\ahrla\desktop\cg_project_latest\cg_project\component.h
+
+1471642074 c:\users\ahrla\desktop\cg_project_latest\cg_project\car.h
+
+1471776056 c:\users\ahrla\desktop\cg_project_latest\cg_project\train.h
+	"bezier.h"
+
+1471689138 c:\users\ahrla\desktop\cg_project_latest\cg_project\bezier.h
+
+1472919590 c:\users\ahrla\desktop\cg_project_latest\cg_project\control.h
+	"score.h"
+
+1472910698 c:\users\ahrla\desktop\cg_project_latest\cg_project\score.h
+
+1472915525 c:\users\ahrla\desktop\cg_project_latest\cg_project\scenery.h
+	"house.h"
+
+1472849053 c:\users\ahrla\desktop\cg_project_latest\cg_project\house.h
+
+1472833358 c:\users\ahrla\desktop\cg_project_latest\cg_project\character.h
+
+1472920144 c:\users\ahrla\desktop\cg_project_latest\cg_project\collision.h
+
+1472919103 source:c:\users\ahrla\desktop\cg_project_latest_col\cg_project\main.cpp
+	<iostream>
+	<math.h>
+	<sstream>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	"component.h"
+	"car.h"
+	"train.h"
+	"control.h"
+	"scenery.h"
+	"score.h"
+	"character.h"
+	"collision.h"
+
+1472918660 c:\users\ahrla\desktop\cg_project_latest_col\cg_project\component.h
+
+1471642074 c:\users\ahrla\desktop\cg_project_latest_col\cg_project\car.h
+
+1471776056 c:\users\ahrla\desktop\cg_project_latest_col\cg_project\train.h
+	"bezier.h"
+
+1471689138 c:\users\ahrla\desktop\cg_project_latest_col\cg_project\bezier.h
+
+1472919590 c:\users\ahrla\desktop\cg_project_latest_col\cg_project\control.h
+	"score.h"
+
+1472910698 c:\users\ahrla\desktop\cg_project_latest_col\cg_project\score.h
+
+1472915525 c:\users\ahrla\desktop\cg_project_latest_col\cg_project\scenery.h
+	"house.h"
+
+1472849053 c:\users\ahrla\desktop\cg_project_latest_col\cg_project\house.h
+
+1472833358 c:\users\ahrla\desktop\cg_project_latest_col\cg_project\character.h
+
+1472920504 c:\users\ahrla\desktop\cg_project_latest_col\cg_project\collision.h
+
+1472919103 source:c:\users\rifat\desktop\cg_project_latest_col\cg_project\main.cpp
+	<iostream>
+	<math.h>
+	<sstream>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	"component.h"
+	"car.h"
+	"train.h"
+	"control.h"
+	"scenery.h"
+	"score.h"
+	"character.h"
+	"collision.h"
+
+1472918660 c:\users\rifat\desktop\cg_project_latest_col\cg_project\component.h
+
+1472978057 c:\users\rifat\desktop\cg_project_latest_col\cg_project\car.h
+
+1471776056 c:\users\rifat\desktop\cg_project_latest_col\cg_project\train.h
+	"bezier.h"
+
+1471689138 c:\users\rifat\desktop\cg_project_latest_col\cg_project\bezier.h
+
+1472930718 c:\users\rifat\desktop\cg_project_latest_col\cg_project\control.h
+	"score.h"
+
+1472910698 c:\users\rifat\desktop\cg_project_latest_col\cg_project\score.h
+
+1472915525 c:\users\rifat\desktop\cg_project_latest_col\cg_project\scenery.h
+	"house.h"
+
+1472849053 c:\users\rifat\desktop\cg_project_latest_col\cg_project\house.h
+
+1472833358 c:\users\rifat\desktop\cg_project_latest_col\cg_project\character.h
+
+1472979236 c:\users\rifat\desktop\cg_project_latest_col\cg_project\collision.h
+
+1472919104 source:c:\users\ahrla\dropbox\c#,asp.net,cg\computer graphics\cg_project_final\cg_project\main.cpp
+	<iostream>
+	<math.h>
+	<sstream>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	"component.h"
+	"car.h"
+	"train.h"
+	"control.h"
+	"scenery.h"
+	"score.h"
+	"character.h"
+	"collision.h"
+
+1472918662 c:\users\ahrla\dropbox\c#,asp.net,cg\computer graphics\cg_project_final\cg_project\component.h
+
+1473000301 c:\users\ahrla\dropbox\c#,asp.net,cg\computer graphics\cg_project_final\cg_project\car.h
+
+1471776056 c:\users\ahrla\dropbox\c#,asp.net,cg\computer graphics\cg_project_final\cg_project\train.h
+	"bezier.h"
+
+1471689138 c:\users\ahrla\dropbox\c#,asp.net,cg\computer graphics\cg_project_final\cg_project\bezier.h
+
+1472930720 c:\users\ahrla\dropbox\c#,asp.net,cg\computer graphics\cg_project_final\cg_project\control.h
+	"score.h"
+
+1472910700 c:\users\ahrla\dropbox\c#,asp.net,cg\computer graphics\cg_project_final\cg_project\score.h
+
+1472915526 c:\users\ahrla\dropbox\c#,asp.net,cg\computer graphics\cg_project_final\cg_project\scenery.h
+	"house.h"
+
+1472849054 c:\users\ahrla\dropbox\c#,asp.net,cg\computer graphics\cg_project_final\cg_project\house.h
+
+1472833358 c:\users\ahrla\dropbox\c#,asp.net,cg\computer graphics\cg_project_final\cg_project\character.h
+
+1472979238 c:\users\ahrla\dropbox\c#,asp.net,cg\computer graphics\cg_project_final\cg_project\collision.h
+
